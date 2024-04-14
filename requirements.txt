@@ -1,0 +1,9 @@
+numpy
+opencv-python
+scipy
+pandas
+tensorflow
+transformers
+SpeechRecognition
+pyaudio
+moviepy
